@@ -1,0 +1,17 @@
+version: 0.1.0
+name: fortem
+displayName: Fortem IDP
+createdAt: "2026-04-29T00:00:00Z"
+description: View and manage Fortem environments, clusters, and cost metrics directly in your Kubernetes dashboard.
+logoURL: https://fortem.dev/favicon.ico
+links:
+  - name: Website
+    url: https://fortem.dev
+  - name: Docs
+    url: https://fortem.dev/docs
+  - name: Source
+    url: https://github.com/cybrixcc/headlamp-fortem
+provider:
+  name: Cybrix LLC
+annotations:
+  headlamp/plugin/version-compat: ">=0.20.0"
