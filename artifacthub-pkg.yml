@@ -3,7 +3,7 @@ name: fortem
 displayName: Fortem IDP
 createdAt: "2026-04-29T00:00:00Z"
 description: View and manage Fortem environments, clusters, and cost metrics directly in your Kubernetes dashboard.
-logoURL: https://fortem.dev/favicon.ico
+logoURL: https://raw.githubusercontent.com/cybrixcc/headlamp-fortem/master/logo.png
 links:
   - name: Website
     url: https://fortem.dev
